@@ -1,0 +1,69 @@
+name: Run JavaScript Scripts Hourly
+
+on:
+  schedule:
+    # This uses cron syntax to schedule the job. `*/60 * * * *` means it will run every hour.
+    - cron: "0 * * * *"
+
+jobs:
+  run-scripts:
+    name: Run Scripts
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Check out the repo to the runner
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Set up Node.js environment
+      usesActions/setup  
+---
+```**finish'd_RAM:clear upload GitHub directly completion-writing
+It seems I ran into an issue while providing the content. Below is the complete workflow content for your `.github/workflows/cron-job.yml` file:
+
+````yaml
+name: Run JavaScript Scripts Hourly
+
+on:
+  schedule:
+    # This uses cron syntax to schedule the job. `0 * * * *` means it will run every hour.
+    - cron: "0 * * * *"
+
+jobs:
+  run-scripts:
+    name: Run Scripts
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Check out the repo to the runner
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Set up Node.js environment
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16 # Or another version of Node.js your scripts need
+
+    # Step 3: Create .env file from secrets
+    - name: Create .env file
+      run: |
+        echo API_KEY_1=${{ secrets.API_KEY_1 }} >> .env
+        echo API_KEY_2=${{ secrets.API_KEY_2 }} >> .env
+        echo OTHER_SECRET=${{ secrets.OTHER_SECRET }} >> .env
+
+    # Step 4: Install dependencies
+    - name: Install dependencies
+      run: npm install
+
+    # Step 5: Run the first script
+    - name: Run sync_fixtures_odds.js
+      run: node sync_fixtures_odds.js
+
+    # Step 6: Run the second script
+    - name: Run results_sync.js
+      run: node results_sync.js
+
+    # Step 7: Run the third script
+    - name: Run updatecurrentstandings.js
+      run: node updatecurrentstandings.js
