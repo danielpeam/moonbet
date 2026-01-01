@@ -1,0 +1,20 @@
+{
+  "name": "standings-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run-all": "node upcoming-fixtures-loader.js && node updatecurrentstandings.js && node sync_fixtures_odds.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.79.0",
+    "axios": "^1.13.2",
+    "dayjs": "^1.11.19",
+    "dotenv": "^17.2.3",
+    "p-limit": "^7.1.1"
+  }
+}
