@@ -2,7 +2,7 @@ name: MoonBet Cron
 
 on:
   schedule:
-    - cron: "10 6 * * *"   # 06:10 UTC daily (UK winter = same)
+    - cron: "45 7-22 * * *"
   workflow_dispatch:        # lets you run it manually
 
 jobs:
