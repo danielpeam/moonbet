@@ -112,9 +112,20 @@ async function fetchOddsForFixture(fixtureId) {
 // ---------- Supabase ----------
 async function upsertFixtures(rows) {
   if (!rows.length) return;
+
+  // Dedupe by fixture_id (last write wins)
+  const byId = new Map();
+  for (const r of rows) {
+    if (r.fixture_id == null) continue;
+    byId.set(r.fixture_id, r);
+  }
+  const deduped = Array.from(byId.values());
+
   const { error } = await supabase
     .from('fixtures')
-    .upsert(rows, { onConflict: 'fixture_id' });
+    // explicitly DO NOT ignore duplicates => update existing rows
+    .upsert(deduped, { onConflict: 'fixture_id', ignoreDuplicates: false });
+
   if (error) {
     console.error('Supabase upsert error:', error);
     throw error;
