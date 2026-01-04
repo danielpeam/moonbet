@@ -31,14 +31,14 @@ async function fetchAndStoreResults(leagueId, leagueName, season) {
       params: {
         league: leagueId,
         season,
-        from: '2025-12-01',
-        to: '2025-12-31'
+        from: '2026-01-01',
+        to: '2026-01-31'
       }
     });
 
     const fixtures = data?.response || [];
     if (!fixtures.length) {
-      console.warn(`⚠️ No fixtures for ${leagueName} December ${season}`);
+      console.warn(`⚠️ No fixtures for ${leagueName} January ${season}`);
       return;
     }
 
@@ -65,9 +65,9 @@ async function fetchAndStoreResults(leagueId, leagueName, season) {
 
     const { error } = await supabase.from('results').upsert(rows, { onConflict: ['fixture_id'] });
     if (error) console.error(`❌ Insert error ${leagueName} ${season}:`, error.message);
-    else console.log(`✅ ${leagueName} December ${season}: ${rows.length} fixtures upserted`);
+    else console.log(`✅ ${leagueName} January ${season}: ${rows.length} fixtures upserted`);
   } catch (err) {
-    console.error(`🔥 API error ${leagueName} December ${season}:`, err.message);
+    console.error(`🔥 API error ${leagueName} January ${season}:`, err.message);
   }
 }
 
@@ -81,8 +81,8 @@ async function fetchAndStoreResults(leagueId, leagueName, season) {
     process.exit(1);
   }
 
-  // only run for 2025 (December)
-  const year = 2025;
+  // only run for 2026 (January)
+  const year = 2026;
   for (const league of leagues) {
     await fetchAndStoreResults(league.id, league.name, year);
     await new Promise(r => setTimeout(r, 800));
