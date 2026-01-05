@@ -81,8 +81,8 @@ async function fetchAndStoreResults(leagueId, leagueName, season) {
     process.exit(1);
   }
 
-  // only run for 2026 (January)
-  const year = 2026;
+  // only run for 2025 (January)
+  const year = 2025;
   for (const league of leagues) {
     await fetchAndStoreResults(league.id, league.name, year);
     await new Promise(r => setTimeout(r, 800));
