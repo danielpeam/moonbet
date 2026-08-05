@@ -1,0 +1,19 @@
+{
+  "name": "moonbet-standings-backfill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backfills public.standings from API-Football back to 1999, only inserting seasons that don't already exist.",
+  "main": "backfill-standings.js",
+  "scripts": {
+    "leagues": "node list-domestic-leagues.js",
+    "start": "node backfill-standings.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "axios": "^1.19.0",
+    "dotenv": "^16.4.5"
+  },
+  "optionalDependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

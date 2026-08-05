@@ -1,0 +1,10640 @@
+[
+  {
+    "league_id": 62,
+    "league_name": "Ligue 2",
+    "country": "France",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 61,
+    "league_name": "Ligue 1",
+    "country": "France",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 144,
+    "league_name": "Jupiler Pro League",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 71,
+    "league_name": "Serie A",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 39,
+    "league_name": "Premier League",
+    "country": "England",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 78,
+    "league_name": "Bundesliga",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 135,
+    "league_name": "Serie A",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 88,
+    "league_name": "Eredivisie",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 94,
+    "league_name": "Primeira Liga",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 140,
+    "league_name": "La Liga",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 179,
+    "league_name": "Premiership",
+    "country": "Scotland",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 180,
+    "league_name": "Championship",
+    "country": "Scotland",
+    "seasons_with_standings": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 330,
+    "league_name": "Premier League",
+    "country": "Kuwait",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 119,
+    "league_name": "Superliga",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 120,
+    "league_name": "1. Division",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 124,
+    "league_name": "Denmark Series - Group 1",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 125,
+    "league_name": "Denmark Series - Group 2",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 126,
+    "league_name": "Denmark Series - Group 3",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 234,
+    "league_name": "Liga Nacional",
+    "country": "Honduras",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 381,
+    "league_name": "HKFA 1st Division",
+    "country": "Hong-Kong",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 380,
+    "league_name": "Premier League",
+    "country": "Hong-Kong",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 271,
+    "league_name": "NB I",
+    "country": "Hungary",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 272,
+    "league_name": "NB II",
+    "country": "Hungary",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 390,
+    "league_name": "Premier League",
+    "country": "Lebanon",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 261,
+    "league_name": "National Division",
+    "country": "Luxembourg",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 306,
+    "league_name": "Second Division",
+    "country": "Qatar",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 305,
+    "league_name": "Stars League",
+    "country": "Qatar",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 40,
+    "league_name": "Championship",
+    "country": "England",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 43,
+    "league_name": "National League",
+    "country": "England",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 41,
+    "league_name": "League One",
+    "country": "England",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 42,
+    "league_name": "League Two",
+    "country": "England",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 568,
+    "league_name": "Eerste Divisie",
+    "country": "Suriname",
+    "seasons_with_standings": [
+      2011,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 571,
+    "league_name": "Vysshaya Liga",
+    "country": "Tajikistan",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 586,
+    "league_name": "West Bank Premier League",
+    "country": "Palestine",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "league_id": 588,
+    "league_name": "National League",
+    "country": "Myanmar",
+    "seasons_with_standings": [
+      2020,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 591,
+    "league_name": "Pro League",
+    "country": "Trinidad-And-Tobago",
+    "seasons_with_standings": [
+      2019,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 336,
+    "league_name": "Druha Liga",
+    "country": "Ukraine",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 334,
+    "league_name": "Persha Liga",
+    "country": "Ukraine",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 333,
+    "league_name": "Premier League",
+    "country": "Ukraine",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 301,
+    "league_name": "Pro League",
+    "country": "United-Arab-Emirates",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 303,
+    "league_name": "Division 1",
+    "country": "United-Arab-Emirates",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 269,
+    "league_name": "Segunda División",
+    "country": "Uruguay",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 202,
+    "league_name": "Ligue 1",
+    "country": "Tunisia",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 203,
+    "league_name": "Süper Lig",
+    "country": "Turkey",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 204,
+    "league_name": "1. Lig",
+    "country": "Turkey",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 205,
+    "league_name": "2. Lig",
+    "country": "Turkey",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 552,
+    "league_name": "3. Lig - Group 1",
+    "country": "Turkey",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 553,
+    "league_name": "3. Lig - Group 2",
+    "country": "Turkey",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 554,
+    "league_name": "3. Lig - Group 3",
+    "country": "Turkey",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 63,
+    "league_name": "National 1",
+    "country": "France",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 67,
+    "league_name": "National 2 - Group A",
+    "country": "France",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 68,
+    "league_name": "National 2 - Group B",
+    "country": "France",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 69,
+    "league_name": "National 2 - Group C",
+    "country": "France",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 70,
+    "league_name": "National 2 - Group D",
+    "country": "France",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "league_id": 233,
+    "league_name": "Premier League",
+    "country": "Egypt",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 370,
+    "league_name": "Primera Division",
+    "country": "El-Salvador",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 328,
+    "league_name": "Esiliiga A",
+    "country": "Estonia",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 329,
+    "league_name": "Meistriliiga",
+    "country": "Estonia",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 326,
+    "league_name": "Erovnuli Liga 2",
+    "country": "Georgia",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 570,
+    "league_name": "Premier League",
+    "country": "Ghana",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 377,
+    "league_name": "Division d'Honneur",
+    "country": "Guadeloupe",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 339,
+    "league_name": "Liga Nacional",
+    "country": "Guatemala",
+    "seasons_with_standings": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 338,
+    "league_name": "Primera Division",
+    "country": "Guatemala",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 198,
+    "league_name": "Football League",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2016,
+      2018,
+      2019,
+      2020
+    ]
+  },
+  {
+    "league_id": 197,
+    "league_name": "Super League 1",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 79,
+    "league_name": "2. Bundesliga",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 80,
+    "league_name": "3. Liga",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 311,
+    "league_name": "1st Division",
+    "country": "Albania",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 310,
+    "league_name": "Superliga",
+    "country": "Albania",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 186,
+    "league_name": "Ligue 1",
+    "country": "Algeria",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 187,
+    "league_name": "Ligue 2",
+    "country": "Algeria",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 512,
+    "league_name": "2nd Division - Group A",
+    "country": "Albania",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 513,
+    "league_name": "2nd Division - Group B",
+    "country": "Albania",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 312,
+    "league_name": "1a Divisió",
+    "country": "Andorra",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 313,
+    "league_name": "2a Divisió",
+    "country": "Andorra",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 131,
+    "league_name": "Primera B Metropolitana",
+    "country": "Argentina",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 129,
+    "league_name": "Primera Nacional",
+    "country": "Argentina",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 132,
+    "league_name": "Primera C",
+    "country": "Argentina",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 133,
+    "league_name": "Primera D",
+    "country": "Argentina",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "league_id": 134,
+    "league_name": "Torneo Federal A",
+    "country": "Argentina",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 188,
+    "league_name": "A-League",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 191,
+    "league_name": "Brisbane Premier League",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 193,
+    "league_name": "Northern Territory Premier League",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 219,
+    "league_name": "2. Liga",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 218,
+    "league_name": "Bundesliga",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 418,
+    "league_name": "Birinci Dasta",
+    "country": "Azerbaijan",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 419,
+    "league_name": "Premyer Liqa",
+    "country": "Azerbaijan",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 222,
+    "league_name": "Regionalliga - Mitte",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 221,
+    "league_name": "Regionalliga - Ost",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 223,
+    "league_name": "Regionalliga - West",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 110,
+    "league_name": "Premier League",
+    "country": "Wales",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 299,
+    "league_name": "Primera División",
+    "country": "Venezuela",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 300,
+    "league_name": "Segunda División",
+    "country": "Venezuela",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 406,
+    "league_name": "Professional League",
+    "country": "Oman",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 322,
+    "league_name": "Premier League",
+    "country": "Jamaica",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 387,
+    "league_name": "League",
+    "country": "Jordan",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 388,
+    "league_name": "1. Division",
+    "country": "Kazakhstan",
+    "seasons_with_standings": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 397,
+    "league_name": "Girabola",
+    "country": "Angola",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 343,
+    "league_name": "First League",
+    "country": "Armenia",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 342,
+    "league_name": "Premier League",
+    "country": "Armenia",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 481,
+    "league_name": "Northern NSW NPL",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 116,
+    "league_name": "Premier League",
+    "country": "Belarus",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 117,
+    "league_name": "1. Division",
+    "country": "Belarus",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 118,
+    "league_name": "2. Division",
+    "country": "Belarus",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 400,
+    "league_name": "Super League",
+    "country": "Zambia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 340,
+    "league_name": "V.League 1",
+    "country": "Vietnam",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 98,
+    "league_name": "J1 League",
+    "country": "Japan",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026,
+      2027
+    ]
+  },
+  {
+    "league_id": 99,
+    "league_name": "J2 League",
+    "country": "Japan",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 100,
+    "league_name": "J3 League",
+    "country": "Japan",
+    "seasons_with_standings": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 422,
+    "league_name": "Premier League",
+    "country": "Barbados",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "league_id": 366,
+    "league_name": "1. Deild",
+    "country": "Faroe-Islands",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 367,
+    "league_name": "Meistaradeildin",
+    "country": "Faroe-Islands",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 245,
+    "league_name": "Ykkönen",
+    "country": "Finland",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 244,
+    "league_name": "Veikkausliiga",
+    "country": "Finland",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 247,
+    "league_name": "Kakkonen - Lohko A",
+    "country": "Finland",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 248,
+    "league_name": "Kakkonen - Lohko B",
+    "country": "Finland",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 249,
+    "league_name": "Kakkonen - Lohko C",
+    "country": "Finland",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 242,
+    "league_name": "Liga Pro",
+    "country": "Ecuador",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 243,
+    "league_name": "Liga Pro Serie B",
+    "country": "Ecuador",
+    "seasons_with_standings": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 389,
+    "league_name": "Premier League",
+    "country": "Kazakhstan",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 276,
+    "league_name": "FKF Premier League",
+    "country": "Kenya",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 379,
+    "league_name": "Ligue Haïtienne",
+    "country": "Haiti",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2020,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 364,
+    "league_name": "1. Liga",
+    "country": "Latvia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 365,
+    "league_name": "Virsliga",
+    "country": "Latvia",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 361,
+    "league_name": "1 Lyga",
+    "country": "Lithuania",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 362,
+    "league_name": "A Lyga",
+    "country": "Lithuania",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 72,
+    "league_name": "Serie B",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 75,
+    "league_name": "Serie C",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 76,
+    "league_name": "Serie D",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 585,
+    "league_name": "Premier League",
+    "country": "Uganda",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 598,
+    "league_name": "Première Division",
+    "country": "Mali",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 253,
+    "league_name": "Major League Soccer",
+    "country": "USA",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 268,
+    "league_name": "Primera División - Apertura",
+    "country": "Uruguay",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 270,
+    "league_name": "Primera División - Clausura",
+    "country": "Uruguay",
+    "seasons_with_standings": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 369,
+    "league_name": "Super League",
+    "country": "Uzbekistan",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 296,
+    "league_name": "Thai League 1",
+    "country": "Thailand",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 297,
+    "league_name": "Thai League 2",
+    "country": "Thailand",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 421,
+    "league_name": "Division di Honor",
+    "country": "Aruba",
+    "seasons_with_standings": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 376,
+    "league_name": "National Football League",
+    "country": "Fiji",
+    "seasons_with_standings": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 64,
+    "league_name": "Feminine Division 1",
+    "country": "France",
+    "seasons_with_standings": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 327,
+    "league_name": "Erovnuli Liga",
+    "country": "Georgia",
+    "seasons_with_standings": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 378,
+    "league_name": "Ligue 1",
+    "country": "Guinea",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 520,
+    "league_name": "Acreano",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 122,
+    "league_name": "2. Division",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 123,
+    "league_name": "2nd Division - Group 2",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2019,
+      2020
+    ]
+  },
+  {
+    "league_id": 567,
+    "league_name": "Ligi kuu Bara",
+    "country": "Tanzania",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 255,
+    "league_name": "USL Championship",
+    "country": "USA",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 128,
+    "league_name": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "seasons_with_standings": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 363,
+    "league_name": "Premier League",
+    "country": "Ethiopia",
+    "seasons_with_standings": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 183,
+    "league_name": "League One",
+    "country": "Scotland",
+    "seasons_with_standings": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 184,
+    "league_name": "League Two",
+    "country": "Scotland",
+    "seasons_with_standings": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 317,
+    "league_name": "1st League - RS",
+    "country": "Bosnia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 316,
+    "league_name": "1st League - FBiH",
+    "country": "Bosnia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 295,
+    "league_name": "K3 League",
+    "country": "South-Korea",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 141,
+    "league_name": "Segunda División",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 136,
+    "league_name": "Serie B",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 103,
+    "league_name": "Eliteserien",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 89,
+    "league_name": "Eerste Divisie",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 95,
+    "league_name": "Segunda Liga",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 113,
+    "league_name": "Allsvenskan",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 162,
+    "league_name": "Primera División",
+    "country": "Costa-Rica",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 164,
+    "league_name": "Úrvalsdeild",
+    "country": "Iceland",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 169,
+    "league_name": "Super League",
+    "country": "China",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 200,
+    "league_name": "Botola Pro",
+    "country": "Morocco",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 207,
+    "league_name": "Super League",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 210,
+    "league_name": "HNL",
+    "country": "Croatia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 235,
+    "league_name": "Premier League",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 239,
+    "league_name": "Primera A",
+    "country": "Colombia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 250,
+    "league_name": "Division Profesional - Apertura",
+    "country": "Paraguay",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 145,
+    "league_name": "Challenger Pro League",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 173,
+    "league_name": "Second League",
+    "country": "Bulgaria",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 170,
+    "league_name": "League One",
+    "country": "China",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 189,
+    "league_name": "Capital Territory NPL",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 240,
+    "league_name": "Primera B",
+    "country": "Colombia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 211,
+    "league_name": "First NL",
+    "country": "Croatia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 138,
+    "league_name": "Serie C - Girone A",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 146,
+    "league_name": "Super League Women",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 74,
+    "league_name": "Brasileiro Women",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 44,
+    "league_name": "FA WSL",
+    "country": "England",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 82,
+    "league_name": "Frauen Bundesliga",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 139,
+    "league_name": "Serie A Women",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 91,
+    "league_name": "Eredivisie Women",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 142,
+    "league_name": "Primera División Femenina",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 190,
+    "league_name": "A-League Women",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 236,
+    "league_name": "First League",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 165,
+    "league_name": "1. Deild",
+    "country": "Iceland",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 251,
+    "league_name": "Division Intermedia",
+    "country": "Paraguay",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 104,
+    "league_name": "1. Division",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 114,
+    "league_name": "Superettan",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 208,
+    "league_name": "Challenge League",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 262,
+    "league_name": "Liga MX",
+    "country": "Mexico",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 263,
+    "league_name": "Liga de Expansión MX",
+    "country": "Mexico",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 278,
+    "league_name": "Super League",
+    "country": "Malaysia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 279,
+    "league_name": "Premier League",
+    "country": "Malaysia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "league_id": 280,
+    "league_name": "Premiership",
+    "country": "New-Zealand",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ]
+  },
+  {
+    "league_id": 281,
+    "league_name": "Primera División",
+    "country": "Peru",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 282,
+    "league_name": "Segunda División",
+    "country": "Peru",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 283,
+    "league_name": "Liga I",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 284,
+    "league_name": "Liga II",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 286,
+    "league_name": "Super Liga",
+    "country": "Serbia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 287,
+    "league_name": "Prva Liga",
+    "country": "Serbia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 288,
+    "league_name": "Premier Soccer League",
+    "country": "South-Africa",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 289,
+    "league_name": "1st Division",
+    "country": "South-Africa",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 290,
+    "league_name": "Persian Gulf Pro League",
+    "country": "Iran",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 291,
+    "league_name": "Azadegan League",
+    "country": "Iran",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 292,
+    "league_name": "K League 1",
+    "country": "South-Korea",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 293,
+    "league_name": "K League 2",
+    "country": "South-Korea",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 307,
+    "league_name": "Pro League",
+    "country": "Saudi-Arabia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 308,
+    "league_name": "Division 1",
+    "country": "Saudi-Arabia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 309,
+    "league_name": "Division 2",
+    "country": "Saudi-Arabia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2025
+    ]
+  },
+  {
+    "league_id": 127,
+    "league_name": "Denmark Series - Group 4",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 563,
+    "league_name": "Ettan - Norra",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 564,
+    "league_name": "Ettan - Södra",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 569,
+    "league_name": "Premier League",
+    "country": "Kyrgyzstan",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 592,
+    "league_name": "Division 2 - Norra Götaland",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 593,
+    "league_name": "Division 2 - Norra Svealand",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 594,
+    "league_name": "Division 2 - Norrland",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 595,
+    "league_name": "Division 2 - Södra Svealand",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 596,
+    "league_name": "Division 2 - Västra Götaland",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 597,
+    "league_name": "Division 2 - Södra Götaland",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2017,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 252,
+    "league_name": "Division Profesional - Clausura",
+    "country": "Paraguay",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 166,
+    "league_name": "2. Deild",
+    "country": "Iceland",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 368,
+    "league_name": "Premier League",
+    "country": "Singapore",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 315,
+    "league_name": "Premijer Liga",
+    "country": "Bosnia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 371,
+    "league_name": "First League",
+    "country": "Macedonia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 382,
+    "league_name": "Liga Leumit",
+    "country": "Israel",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 383,
+    "league_name": "Ligat Ha'al",
+    "country": "Israel",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 386,
+    "league_name": "Ligue 1",
+    "country": "Ivory-Coast",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 392,
+    "league_name": "Challenge League",
+    "country": "Malta",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 393,
+    "league_name": "Premier League",
+    "country": "Malta",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 394,
+    "league_name": "Super Liga",
+    "country": "Moldova",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 396,
+    "league_name": "Primera Division",
+    "country": "Nicaragua",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 399,
+    "league_name": "NPFL",
+    "country": "Nigeria",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 401,
+    "league_name": "Premier Soccer League",
+    "country": "Zimbabwe",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 402,
+    "league_name": "Sudani Premier League",
+    "country": "Sudan",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2019,
+      2020,
+      2021,
+      2022,
+      2025
+    ]
+  },
+  {
+    "league_id": 403,
+    "league_name": "Ligue 1",
+    "country": "Senegal",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 404,
+    "league_name": "Campionato",
+    "country": "San-Marino",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 411,
+    "league_name": "Elite One",
+    "country": "Cameroon",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 410,
+    "league_name": "C-League",
+    "country": "Cambodia",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 417,
+    "league_name": "Premier League",
+    "country": "Bahrain",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 415,
+    "league_name": "Championnat National",
+    "country": "Benin",
+    "seasons_with_standings": [
+      2016,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 414,
+    "league_name": "Premier League",
+    "country": "Bermuda",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 413,
+    "league_name": "Super League",
+    "country": "Bhutan",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 412,
+    "league_name": "Premier League",
+    "country": "Botswana",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 398,
+    "league_name": "Premier League",
+    "country": "Bangladesh",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 496,
+    "league_name": "Liga Alef",
+    "country": "Israel",
+    "seasons_with_standings": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 506,
+    "league_name": "2. liga",
+    "country": "Slovakia",
+    "seasons_with_standings": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 521,
+    "league_name": "Amapaense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 522,
+    "league_name": "Amazonense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 497,
+    "league_name": "Japan Football League",
+    "country": "Japan",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 488,
+    "league_name": "U19 Bundesliga",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 331,
+    "league_name": "Division 1",
+    "country": "Kuwait",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 584,
+    "league_name": "Premier League",
+    "country": "Libya",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2021,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 589,
+    "league_name": "Taiwan Football Premier League",
+    "country": "Chinese-Taipei",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 14,
+    "league_name": "UEFA Youth League",
+    "country": "World",
+    "seasons_with_standings": [
+      2021,
+      2025
+    ]
+  },
+  {
+    "league_id": 425,
+    "league_name": "Premier League",
+    "country": "Syria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 337,
+    "league_name": "Druha Liga - Group B",
+    "country": "Ukraine",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021
+    ]
+  },
+  {
+    "league_id": 258,
+    "league_name": "Canadian Soccer League",
+    "country": "Canada",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 274,
+    "league_name": "Liga 1",
+    "country": "Indonesia",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 304,
+    "league_name": "Liga Panameña de Fútbol",
+    "country": "Panama",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 372,
+    "league_name": "Second League",
+    "country": "Macedonia",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 492,
+    "league_name": "Tweede Divisie",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 510,
+    "league_name": "1. Liga Promotion",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 561,
+    "league_name": "Premier Intermediate League",
+    "country": "Northern-Ireland",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 407,
+    "league_name": "Championship",
+    "country": "Northern-Ireland",
+    "seasons_with_standings": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 408,
+    "league_name": "Premiership",
+    "country": "Northern-Ireland",
+    "seasons_with_standings": [
+      2017,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 942,
+    "league_name": "Serie C - Girone B",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 943,
+    "league_name": "Serie C - Girone C",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 149,
+    "league_name": "Second Amateur Division - VFV A",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 150,
+    "league_name": "Second Amateur Division - VFV B",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 151,
+    "league_name": "Third Amateur Division - VFV A",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 152,
+    "league_name": "Third Amateur Division - VFV B",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 175,
+    "league_name": "Third League - Northeast",
+    "country": "Bulgaria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 176,
+    "league_name": "Third League - Northwest",
+    "country": "Bulgaria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 177,
+    "league_name": "Third League - Southeast",
+    "country": "Bulgaria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 178,
+    "league_name": "Third League - Southwest",
+    "country": "Bulgaria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 49,
+    "league_name": "National League - Play-offs",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 345,
+    "league_name": "Czech Liga",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 346,
+    "league_name": "FNL",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 355,
+    "league_name": "First League",
+    "country": "Montenegro",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 356,
+    "league_name": "Second League",
+    "country": "Montenegro",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 344,
+    "league_name": "Primera División",
+    "country": "Bolivia",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 256,
+    "league_name": "USL League Two",
+    "country": "USA",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 373,
+    "league_name": "1. SNL",
+    "country": "Slovenia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 374,
+    "league_name": "2. SNL",
+    "country": "Slovenia",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 391,
+    "league_name": "Super League",
+    "country": "Malawi",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 405,
+    "league_name": "National Soccer League",
+    "country": "Rwanda",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 409,
+    "league_name": "Premier League",
+    "country": "Namibia",
+    "seasons_with_standings": [
+      2018
+    ]
+  },
+  {
+    "league_id": 416,
+    "league_name": "Premier League",
+    "country": "Belize",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 106,
+    "league_name": "Ekstraklasa",
+    "country": "Poland",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 172,
+    "league_name": "First League",
+    "country": "Bulgaria",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 163,
+    "league_name": "Liga de Ascenso",
+    "country": "Costa-Rica",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 111,
+    "league_name": "FAW Championship",
+    "country": "Wales",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 265,
+    "league_name": "Primera División",
+    "country": "Chile",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 266,
+    "league_name": "Primera B",
+    "country": "Chile",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 277,
+    "league_name": "Super League",
+    "country": "Kenya",
+    "seasons_with_standings": [
+      2018,
+      2025
+    ]
+  },
+  {
+    "league_id": 318,
+    "league_name": "1. Division",
+    "country": "Cyprus",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 319,
+    "league_name": "2. Division",
+    "country": "Cyprus",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 320,
+    "league_name": "3. Division",
+    "country": "Cyprus",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 201,
+    "league_name": "Botola 2",
+    "country": "Morocco",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 323,
+    "league_name": "Indian Super League",
+    "country": "India",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 324,
+    "league_name": "I-League",
+    "country": "India",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 107,
+    "league_name": "I Liga",
+    "country": "Poland",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 332,
+    "league_name": "Super Liga",
+    "country": "Slovakia",
+    "seasons_with_standings": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 638,
+    "league_name": "Kvindeliga",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 642,
+    "league_name": "Curaçao Sekshon Pagá",
+    "country": "Curacao",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 664,
+    "league_name": "Superliga",
+    "country": "Kosovo",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 494,
+    "league_name": "Super League 2",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 515,
+    "league_name": "U21 League 1",
+    "country": "Algeria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 518,
+    "league_name": "Reserve Pro League",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 523,
+    "league_name": "NISA",
+    "country": "USA",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 482,
+    "league_name": "Queensland NPL",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 224,
+    "league_name": "Landesliga - Burgenland",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 225,
+    "league_name": "Landesliga - Karnten",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 226,
+    "league_name": "Landesliga - Niederosterreich",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 227,
+    "league_name": "Landesliga - Oberosterreich",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 228,
+    "league_name": "Landesliga - Salzburg",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 229,
+    "league_name": "Landesliga - Steiermark",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 230,
+    "league_name": "Landesliga - Tirol",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 231,
+    "league_name": "Landesliga - Vorarlbergliga",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 232,
+    "league_name": "Landesliga - Wien",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 148,
+    "league_name": "Second Amateur Division - ACFF",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 153,
+    "league_name": "Provincial - Antwerpen",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 154,
+    "league_name": "Provincial - Brabant VFV",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 155,
+    "league_name": "Provincial - Hainaut",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 156,
+    "league_name": "Provincial - Liege",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 157,
+    "league_name": "Provincial - Limburg",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 158,
+    "league_name": "Provincial - Luxembourg",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 159,
+    "league_name": "Provincial - Namur",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 160,
+    "league_name": "Provincial - Oost-Vlaanderen",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 161,
+    "league_name": "Provincial - West-Vlaanderen",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 423,
+    "league_name": "Ligue 1",
+    "country": "Burkina-Faso",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 424,
+    "league_name": "Ligue 1",
+    "country": "Congo-DR",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 213,
+    "league_name": "Third NL - Istok",
+    "country": "Croatia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 214,
+    "league_name": "Third NL - Jug",
+    "country": "Croatia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 215,
+    "league_name": "Third NL - Sjever",
+    "country": "Croatia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 216,
+    "league_name": "Third NL - Sredite",
+    "country": "Croatia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 217,
+    "league_name": "Third NL - Zapad",
+    "country": "Croatia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 348,
+    "league_name": "3. liga - CFL A",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 349,
+    "league_name": "3. liga - MSFL",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 350,
+    "league_name": "4. liga - Divizie A",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 351,
+    "league_name": "4. liga - Divizie B",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 352,
+    "league_name": "4. liga - Divizie C",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 353,
+    "league_name": "4. liga - Divizie D",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 354,
+    "league_name": "4. liga - Divizie E",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 50,
+    "league_name": "National League - North",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 51,
+    "league_name": "National League - South",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 52,
+    "league_name": "Non League Div One - Isthmian North",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 53,
+    "league_name": "Non League Div One - Isthmian South Central",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 54,
+    "league_name": "Non League Div One - Northern West",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 55,
+    "league_name": "Non League Div One - Northern Midlands",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 56,
+    "league_name": "Non League Div One - Southern South",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 57,
+    "league_name": "Non League Div One - Isthmian South East",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 58,
+    "league_name": "Non League Premier - Isthmian",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 59,
+    "league_name": "Non League Premier - Northern",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 60,
+    "league_name": "Non League Premier - Southern South",
+    "country": "England",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 92,
+    "league_name": "Derde Divisie - Saturday",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 93,
+    "league_name": "Derde Divisie - Sunday",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 109,
+    "league_name": "II Liga - East",
+    "country": "Poland",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 238,
+    "league_name": "Youth Championship",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 83,
+    "league_name": "Regionalliga - Bayern",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 84,
+    "league_name": "Regionalliga - Nord",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 85,
+    "league_name": "Regionalliga - Nordost",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 86,
+    "league_name": "Regionalliga - SudWest",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 87,
+    "league_name": "Regionalliga - West",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 426,
+    "league_name": "Serie D - Girone A",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 427,
+    "league_name": "Serie D - Girone B",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 428,
+    "league_name": "Serie D - Girone C",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 429,
+    "league_name": "Serie D - Girone D",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 430,
+    "league_name": "Serie D - Girone E",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 431,
+    "league_name": "Serie D - Girone F",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 432,
+    "league_name": "Serie D - Girone G",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 433,
+    "league_name": "Serie D - Girone H",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 434,
+    "league_name": "Serie D - Girone I",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 435,
+    "league_name": "Primera División RFEF - Group 1",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 436,
+    "league_name": "Primera División RFEF - Group 2",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 437,
+    "league_name": "Primera División RFEF - Group 3",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020
+    ]
+  },
+  {
+    "league_id": 438,
+    "league_name": "Primera División RFEF - Group 4",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020
+    ]
+  },
+  {
+    "league_id": 439,
+    "league_name": "Tercera División RFEF - Group 1",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 440,
+    "league_name": "Tercera División RFEF - Group 2",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 441,
+    "league_name": "Tercera División RFEF - Group 3",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 442,
+    "league_name": "Tercera División RFEF - Group 4",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 443,
+    "league_name": "Tercera División RFEF - Group 5",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 444,
+    "league_name": "Tercera División RFEF - Group 6",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 445,
+    "league_name": "Tercera División RFEF - Group 7",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 446,
+    "league_name": "Tercera División RFEF - Group 8",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 447,
+    "league_name": "Tercera División RFEF - Group 9",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 448,
+    "league_name": "Tercera División RFEF - Group 10",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 449,
+    "league_name": "Tercera División RFEF - Group 11",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 450,
+    "league_name": "Tercera División RFEF - Group 12",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 451,
+    "league_name": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 452,
+    "league_name": "Tercera División RFEF - Group 14",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 453,
+    "league_name": "Tercera División RFEF - Group 15",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 454,
+    "league_name": "Tercera División RFEF - Group 16",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 455,
+    "league_name": "Tercera División RFEF - Group 17",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 456,
+    "league_name": "Tercera División RFEF - Group 18",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 457,
+    "league_name": "Campeonato de Portugal Prio - Group A",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "league_id": 458,
+    "league_name": "Campeonato de Portugal Prio - Group B",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "league_id": 459,
+    "league_name": "Campeonato de Portugal Prio - Group C",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "league_id": 460,
+    "league_name": "Campeonato de Portugal Prio - Group D",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 461,
+    "league_name": "National 3 - Group A",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 462,
+    "league_name": "National 3 - Group B",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 463,
+    "league_name": "National 3 - Group C",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 464,
+    "league_name": "National 3 - Group D",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 465,
+    "league_name": "National 3 - Group E",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 466,
+    "league_name": "National 3 - Group F",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 467,
+    "league_name": "National 3 - Group H",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 468,
+    "league_name": "National 3 - Group I",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 469,
+    "league_name": "National 3 - Group J",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 470,
+    "league_name": "National 3 - Group K",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "league_id": 471,
+    "league_name": "National 3 - Group L",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "league_id": 472,
+    "league_name": "National 3 - Group M",
+    "country": "France",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "league_id": 473,
+    "league_name": "2. Division - Group 1",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 474,
+    "league_name": "2. Division - Group 2",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 484,
+    "league_name": "Frauenliga",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 487,
+    "league_name": "First Amateur Division",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 489,
+    "league_name": "USL League One",
+    "country": "USA",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 254,
+    "league_name": "NWSL Women",
+    "country": "USA",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 260,
+    "league_name": "Pacific Coast Soccer League",
+    "country": "Canada",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 566,
+    "league_name": "Ligue A",
+    "country": "Burundi",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 572,
+    "league_name": "Srpska Liga - Belgrade",
+    "country": "Serbia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 573,
+    "league_name": "Srpska Liga - Vojvodina",
+    "country": "Serbia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 574,
+    "league_name": "Srpska Liga - East",
+    "country": "Serbia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 575,
+    "league_name": "Srpska Liga - West",
+    "country": "Serbia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 576,
+    "league_name": "Gamma Ethniki - Group 1",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 577,
+    "league_name": "Gamma Ethniki - Group 2",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 578,
+    "league_name": "Gamma Ethniki - Group 3",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 579,
+    "league_name": "Gamma Ethniki - Group 4",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 580,
+    "league_name": "Gamma Ethniki - Group 5",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2025
+    ]
+  },
+  {
+    "league_id": 581,
+    "league_name": "Gamma Ethniki - Group 6",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2025
+    ]
+  },
+  {
+    "league_id": 582,
+    "league_name": "Gamma Ethniki - Group 7",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021
+    ]
+  },
+  {
+    "league_id": 583,
+    "league_name": "Gamma Ethniki - Group 8",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2019,
+      2020
+    ]
+  },
+  {
+    "league_id": 590,
+    "league_name": "A Division",
+    "country": "Nepal",
+    "seasons_with_standings": [
+      2019,
+      2021,
+      2023
+    ]
+  },
+  {
+    "league_id": 599,
+    "league_name": "1. Liga Classic - Group 1",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 600,
+    "league_name": "1. Liga Classic - Group 2",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 601,
+    "league_name": "1. Liga Classic - Group 3",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 613,
+    "league_name": "Baiano - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 620,
+    "league_name": "Cearense - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 625,
+    "league_name": "Carioca - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 633,
+    "league_name": "NB III - Northeast",
+    "country": "Hungary",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 634,
+    "league_name": "NB III - Southwest",
+    "country": "Hungary",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 635,
+    "league_name": "NB III - Northwest",
+    "country": "Hungary",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 192,
+    "league_name": "New South Wales NPL",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 194,
+    "league_name": "South Australia NPL",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 195,
+    "league_name": "Victoria NPL",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 196,
+    "league_name": "Western Australia NPL",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 357,
+    "league_name": "Premier Division",
+    "country": "Ireland",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 358,
+    "league_name": "First Division",
+    "country": "Ireland",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 275,
+    "league_name": "Liga 2",
+    "country": "Indonesia",
+    "seasons_with_standings": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 395,
+    "league_name": "Liga 1",
+    "country": "Moldova",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 813,
+    "league_name": "Elite Two",
+    "country": "Cameroon",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 828,
+    "league_name": "Ligue 2",
+    "country": "Tunisia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 829,
+    "league_name": "Youth League",
+    "country": "Turkmenistan",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 844,
+    "league_name": "Ligue 1",
+    "country": "Congo",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 845,
+    "league_name": "GFA League",
+    "country": "Gambia",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 847,
+    "league_name": "Premier League",
+    "country": "Eswatini",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 475,
+    "league_name": "Paulista - A1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 476,
+    "league_name": "Paulista - A2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 477,
+    "league_name": "Gaúcho - 1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 478,
+    "league_name": "Gaúcho - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 479,
+    "league_name": "Canadian Premier League",
+    "country": "Canada",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 542,
+    "league_name": "Iraqi League",
+    "country": "Iraq",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 549,
+    "league_name": "Damallsvenskan",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 637,
+    "league_name": "V.League 2",
+    "country": "Vietnam",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 640,
+    "league_name": "Kansallinen Liiga",
+    "country": "Finland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 643,
+    "league_name": "3. liga - Bratislava",
+    "country": "Slovakia",
+    "seasons_with_standings": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "league_id": 644,
+    "league_name": "3. liga - West",
+    "country": "Slovakia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 645,
+    "league_name": "3. liga - East",
+    "country": "Slovakia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 646,
+    "league_name": "3. liga - Center",
+    "country": "Slovakia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2025
+    ]
+  },
+  {
+    "league_id": 647,
+    "league_name": "Lao League",
+    "country": "Laos",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 648,
+    "league_name": "Tasmania NPL",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 649,
+    "league_name": "Supreme Division Women",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 650,
+    "league_name": "Second League - Group 3",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 651,
+    "league_name": "Second League - Group 1",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 652,
+    "league_name": "Second League - Group 2",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 653,
+    "league_name": "Second League - Group 4",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 660,
+    "league_name": "WK-League",
+    "country": "South-Korea",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 668,
+    "league_name": "1. Liga U19",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 669,
+    "league_name": "1. Liga Women",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 671,
+    "league_name": "Úrvalsdeild Women",
+    "country": "Iceland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 673,
+    "league_name": "Liga MX Femenil",
+    "country": "Mexico",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 675,
+    "league_name": "U21 Divisie 1",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 676,
+    "league_name": "Central Youth League",
+    "country": "Poland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 679,
+    "league_name": "U21 League",
+    "country": "Ukraine",
+    "seasons_with_standings": [
+      2020
+    ]
+  },
+  {
+    "league_id": 681,
+    "league_name": "Campeonato de Portugal Prio - Group E",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "league_id": 682,
+    "league_name": "Campeonato de Portugal Prio - Group F",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "league_id": 683,
+    "league_name": "Campeonato de Portugal Prio - Group G",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2020
+    ]
+  },
+  {
+    "league_id": 684,
+    "league_name": "Campeonato de Portugal Prio - Group H",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2020
+    ]
+  },
+  {
+    "league_id": 685,
+    "league_name": "3. liga - CFL B",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 686,
+    "league_name": "4. liga - Divizie F",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 687,
+    "league_name": "Regionalliga - Tirol",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "league_id": 688,
+    "league_name": "Regionalliga - Salzburg",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "league_id": 689,
+    "league_name": "Third Amateur Division - ACFF A",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 690,
+    "league_name": "Third Amateur Division - ACFF B",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 691,
+    "league_name": "Provincial - Brabant ACFF",
+    "country": "Belgium",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 692,
+    "league_name": "Primera División RFEF - Group 5",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2020
+    ]
+  },
+  {
+    "league_id": 693,
+    "league_name": "Gamma Ethniki - Group 9",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2020
+    ]
+  },
+  {
+    "league_id": 694,
+    "league_name": "Gamma Ethniki - Group 10",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2020
+    ]
+  },
+  {
+    "league_id": 695,
+    "league_name": "U18 Premier League - North",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 696,
+    "league_name": "U18 Premier League - South",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 699,
+    "league_name": "Women's Championship",
+    "country": "England",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 701,
+    "league_name": "Liga Revelação U23",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 702,
+    "league_name": "Premier League 2 Division One",
+    "country": "England",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 703,
+    "league_name": "Professional Development League",
+    "country": "England",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 705,
+    "league_name": "Campionato Primavera - 1",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 706,
+    "league_name": "Campionato Primavera - 2",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 710,
+    "league_name": "Nacional B",
+    "country": "Bolivia",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 711,
+    "league_name": "Segunda División",
+    "country": "Chile",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 712,
+    "league_name": "Liga Femenina",
+    "country": "Colombia",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 717,
+    "league_name": "I-League - 2nd Division",
+    "country": "India",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 722,
+    "league_name": "Liga Premier Serie A",
+    "country": "Mexico",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2025
+    ]
+  },
+  {
+    "league_id": 724,
+    "league_name": "U18 Divisie 1",
+    "country": "Netherlands",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 728,
+    "league_name": "Liga 1 Feminin",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 730,
+    "league_name": "Football League - Highland League",
+    "country": "Scotland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 731,
+    "league_name": "Football League - Lowland League",
+    "country": "Scotland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 733,
+    "league_name": "I Liga - Women",
+    "country": "Slovakia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 734,
+    "league_name": "Diski Challenge",
+    "country": "South-Africa",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 739,
+    "league_name": "AXA Women’s Super League",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 744,
+    "league_name": "Oberliga - Schleswig-Holstein",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "league_id": 745,
+    "league_name": "Oberliga - Hamburg",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 746,
+    "league_name": "Oberliga - Mittelrhein",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 747,
+    "league_name": "Oberliga - Westfalen",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 748,
+    "league_name": "Oberliga - Niedersachsen",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "league_id": 749,
+    "league_name": "Oberliga - Bremen",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "league_id": 750,
+    "league_name": "Oberliga - Hessen",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 751,
+    "league_name": "Oberliga - Niederrhein",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 752,
+    "league_name": "Oberliga - Rheinland-Pfalz / Saar",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 753,
+    "league_name": "Oberliga - Baden-Württemberg",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 754,
+    "league_name": "Oberliga - Nordost-Nord",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 755,
+    "league_name": "Oberliga - Nordost-Süd",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 758,
+    "league_name": "Premier Division",
+    "country": "Gibraltar",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 759,
+    "league_name": "Liga Mayor",
+    "country": "Dominican-Republic",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 760,
+    "league_name": "LFA First Division",
+    "country": "Liberia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 762,
+    "league_name": "Premier League",
+    "country": "Mauritania",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 763,
+    "league_name": "Mauritian League",
+    "country": "Mauritius",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 764,
+    "league_name": "Premier League",
+    "country": "Mongolia",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 765,
+    "league_name": "PFL",
+    "country": "Philippines",
+    "seasons_with_standings": [
+      2020,
+      2022,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 774,
+    "league_name": "3. Division - Girone 1",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 775,
+    "league_name": "3. Division - Girone 2",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 776,
+    "league_name": "3. Division - Girone 3",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 777,
+    "league_name": "3. Division - Girone 4",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 778,
+    "league_name": "3. Division - Girone 5",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 779,
+    "league_name": "3. Division - Girone 6",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 780,
+    "league_name": "III Liga - Group 1",
+    "country": "Poland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 781,
+    "league_name": "III Liga - Group 2",
+    "country": "Poland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 782,
+    "league_name": "III Liga - Group 3",
+    "country": "Poland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 783,
+    "league_name": "III Liga - Group 4",
+    "country": "Poland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 784,
+    "league_name": "Liga III - Serie 1",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 785,
+    "league_name": "Liga III - Serie 2",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 786,
+    "league_name": "Liga III - Serie 3",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 787,
+    "league_name": "Liga III - Serie 4",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 788,
+    "league_name": "Liga III - Serie 5",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 789,
+    "league_name": "Liga III - Serie 6",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 790,
+    "league_name": "Liga III - Serie 7",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 791,
+    "league_name": "Liga III - Serie 8",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 792,
+    "league_name": "Liga III - Serie 9",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 793,
+    "league_name": "Liga III - Serie 10",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2020,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 794,
+    "league_name": "3. SNL - East",
+    "country": "Slovenia",
+    "seasons_with_standings": [
+      2020,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 795,
+    "league_name": "3. SNL - West",
+    "country": "Slovenia",
+    "seasons_with_standings": [
+      2020,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 796,
+    "league_name": "2. Liga Interregional - Group 1",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 797,
+    "league_name": "2. Liga Interregional - Group 2",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 798,
+    "league_name": "2. Liga Interregional - Group 3",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 799,
+    "league_name": "2. Liga Interregional - Group 4",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 800,
+    "league_name": "2. Liga Interregional - Group 5",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "league_id": 801,
+    "league_name": "2. Liga Interregional - Group 6",
+    "country": "Switzerland",
+    "seasons_with_standings": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "league_id": 562,
+    "league_name": "Reserve League",
+    "country": "Belarus",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 565,
+    "league_name": "Liga Primera U20",
+    "country": "Nicaragua",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 602,
+    "league_name": "Baiano - 1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 603,
+    "league_name": "Paraibano",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 604,
+    "league_name": "Catarinense - 1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 605,
+    "league_name": "Paulista - A3",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 606,
+    "league_name": "Paranaense - 1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 607,
+    "league_name": "Roraimense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 608,
+    "league_name": "Maranhense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 609,
+    "league_name": "Cearense - 1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 610,
+    "league_name": "Brasiliense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 611,
+    "league_name": "Capixaba",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 614,
+    "league_name": "Paranaense - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 615,
+    "league_name": "Rondoniense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 616,
+    "league_name": "Potiguar",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 619,
+    "league_name": "Mineiro - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "league_id": 621,
+    "league_name": "Piauiense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 622,
+    "league_name": "Pernambucano - 1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 623,
+    "league_name": "Sul-Matogrossense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 624,
+    "league_name": "Carioca - 1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 626,
+    "league_name": "Sergipano",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 627,
+    "league_name": "Paraense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 628,
+    "league_name": "Goiano - 1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 629,
+    "league_name": "Mineiro - 1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 630,
+    "league_name": "Matogrossense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 631,
+    "league_name": "Tocantinense",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 636,
+    "league_name": "Ýokary Liga",
+    "country": "Turkmenistan",
+    "seasons_with_standings": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 725,
+    "league_name": "Toppserien",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 736,
+    "league_name": "Elitettan",
+    "country": "Sweden",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 865,
+    "league_name": "Liga 3",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 868,
+    "league_name": "Premier League",
+    "country": "Pakistan",
+    "seasons_with_standings": [
+      2021
+    ]
+  },
+  {
+    "league_id": 870,
+    "league_name": "Premier League",
+    "country": "Crimea",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 872,
+    "league_name": "Liga Premier Serie B",
+    "country": "Mexico",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 875,
+    "league_name": "Segunda División RFEF - Group 1",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 876,
+    "league_name": "Segunda División RFEF - Group 2",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 877,
+    "league_name": "Segunda División RFEF - Group 3",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 878,
+    "league_name": "Segunda División RFEF - Group 4",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 879,
+    "league_name": "Segunda División RFEF - Group 5",
+    "country": "Spain",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 883,
+    "league_name": "Reserve League",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2021
+    ]
+  },
+  {
+    "league_id": 887,
+    "league_name": "Second League",
+    "country": "Egypt",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 888,
+    "league_name": "Second League - Group B",
+    "country": "Egypt",
+    "seasons_with_standings": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "league_id": 889,
+    "league_name": "Second League - Group C",
+    "country": "Egypt",
+    "seasons_with_standings": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "league_id": 867,
+    "league_name": "Copa Paulino Alcantara",
+    "country": "Philippines",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "league_id": 833,
+    "league_name": "Queensland Premier League",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 834,
+    "league_name": "South Australia State League 1",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 835,
+    "league_name": "New South Wales NPL 2",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 836,
+    "league_name": "Victoria NPL 2",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 846,
+    "league_name": "Somali Premier League",
+    "country": "Somalia",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 851,
+    "league_name": "Carioca A2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 854,
+    "league_name": "WE League",
+    "country": "Japan",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 855,
+    "league_name": "Dhivehi Premier League",
+    "country": "Maldives",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "league_id": 861,
+    "league_name": "U20 League",
+    "country": "Mexico",
+    "seasons_with_standings": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "league_id": 862,
+    "league_name": "3. Division",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 909,
+    "league_name": "MLS Next Pro",
+    "country": "USA",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 915,
+    "league_name": "1. Division Women",
+    "country": "Norway",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 923,
+    "league_name": "League 1 Ontario",
+    "country": "Canada",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 929,
+    "league_name": "League Two",
+    "country": "China",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 931,
+    "league_name": "Non League Premier - Southern Central",
+    "country": "England",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 932,
+    "league_name": "Non League Div One - Northern East",
+    "country": "England",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 933,
+    "league_name": "Non League Div One - Southern Central",
+    "country": "England",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 936,
+    "league_name": "Catarinense - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 938,
+    "league_name": "Oberliga - Bayern Nord",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 939,
+    "league_name": "Oberliga - Bayern Süd",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 906,
+    "league_name": "Reserve League",
+    "country": "Argentina",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 907,
+    "league_name": "Primera Division",
+    "country": "Cuba",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 986,
+    "league_name": "Non League Div One - Play-offs",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 987,
+    "league_name": "U18 Premier League - Championship",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 988,
+    "league_name": "Oberliga - Promotion Round",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 989,
+    "league_name": "Oberliga - Relegation Round",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2022,
+      2023
+    ]
+  },
+  {
+    "league_id": 990,
+    "league_name": "Gamma Ethniki - Promotion Group",
+    "country": "Greece",
+    "seasons_with_standings": [
+      2022
+    ]
+  },
+  {
+    "league_id": 991,
+    "league_name": "Campeonato de Portugal Prio - Promotion Round",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 992,
+    "league_name": "Football League - Championship",
+    "country": "Scotland",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 993,
+    "league_name": "Non League Premier - Isthmian - Play-offs",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 994,
+    "league_name": "Non League Premier - Northern - Play-offs",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 995,
+    "league_name": "Non League Premier - Southern South - Play-offs",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 996,
+    "league_name": "Non League Premier - Southern Central - Play-offs",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 997,
+    "league_name": "Serie D - Promotion - Play-offs",
+    "country": "Italy",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 998,
+    "league_name": "Serie D - Relegation - Play-offs",
+    "country": "Italy",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 999,
+    "league_name": "Serie D - Championship Round",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1000,
+    "league_name": "Segunda División RFEF - Play-offs",
+    "country": "Spain",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1002,
+    "league_name": "Regionalliga - Promotion Play-offs",
+    "country": "Germany",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1003,
+    "league_name": "Regionalliga - Relegation Round",
+    "country": "Germany",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1004,
+    "league_name": "Derde Divisie - Relegation Round",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1005,
+    "league_name": "1. Liga Classic - Play-offs",
+    "country": "Switzerland",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1006,
+    "league_name": "Primera División RFEF - Play Offs",
+    "country": "Spain",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1007,
+    "league_name": "3. Lig - Play-offs",
+    "country": "Turkey",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1009,
+    "league_name": "Liga III - Play-offs",
+    "country": "Romania",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1010,
+    "league_name": "3. liga - Promotion Play-off",
+    "country": "Czech-Republic",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1011,
+    "league_name": "Second Amateur Division - Play-offs ",
+    "country": "Belgium",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1014,
+    "league_name": "Second League - Play-offs",
+    "country": "Egypt",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 946,
+    "league_name": "Second NL",
+    "country": "Croatia",
+    "seasons_with_standings": [
+      2022,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 948,
+    "league_name": "1a Divisão - Women",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 954,
+    "league_name": "National League - Central",
+    "country": "New-Zealand",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 955,
+    "league_name": "National League - National",
+    "country": "New-Zealand",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 956,
+    "league_name": "National League - Northern",
+    "country": "New-Zealand",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 957,
+    "league_name": "National League - Southern",
+    "country": "New-Zealand",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 962,
+    "league_name": "Premier League",
+    "country": "Lesotho",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 968,
+    "league_name": "Championnat D1",
+    "country": "Gabon",
+    "seasons_with_standings": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 975,
+    "league_name": "Serie C - Relegation - Play-offs",
+    "country": "Italy",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 976,
+    "league_name": "Serie C - Promotion - Play-offs",
+    "country": "Italy",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 974,
+    "league_name": "Serie C - Supercoppa Lega Finals",
+    "country": "Italy",
+    "seasons_with_standings": [
+      2022
+    ]
+  },
+  {
+    "league_id": 977,
+    "league_name": "Tercera División RFEF - Promotion - Play-offs",
+    "country": "Spain",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 978,
+    "league_name": "2nd Division - Play-offs",
+    "country": "Albania",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 979,
+    "league_name": "Provincial - Play-offs VV",
+    "country": "Belgium",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 980,
+    "league_name": "Provincial - Play-offs ACFF",
+    "country": "Belgium",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 981,
+    "league_name": "Third Amateur Division - Play-offs",
+    "country": "Belgium",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 982,
+    "league_name": "Denmark Series - Promotion Round",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2022
+    ]
+  },
+  {
+    "league_id": 983,
+    "league_name": "Denmark Series - Relegation Round",
+    "country": "Denmark",
+    "seasons_with_standings": [
+      2022
+    ]
+  },
+  {
+    "league_id": 984,
+    "league_name": "National League - North - Play-offs",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 985,
+    "league_name": "National League - South - Play-offs",
+    "country": "England",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1031,
+    "league_name": "Premier League",
+    "country": "Bhutan",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1032,
+    "league_name": "Copa de la Liga Profesional",
+    "country": "Argentina",
+    "seasons_with_standings": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "league_id": 1033,
+    "league_name": "Ekstraliga Women",
+    "country": "Poland",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1034,
+    "league_name": "2. Frauen Bundesliga",
+    "country": "Germany",
+    "seasons_with_standings": [
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1037,
+    "league_name": "Paraibano 2",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1041,
+    "league_name": "Júniores U19",
+    "country": "Portugal",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1048,
+    "league_name": "Premier Division",
+    "country": "Antigua-And-Barbuda",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1052,
+    "league_name": "Kakkonen - Play-offs",
+    "country": "Finland",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1053,
+    "league_name": "Division 2 - Play-offs",
+    "country": "Sweden",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1054,
+    "league_name": "2. Division - Play-offs",
+    "country": "Norway",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1055,
+    "league_name": "Ettan - Relegation Round",
+    "country": "Sweden",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1056,
+    "league_name": "National League - Championship - Final",
+    "country": "New-Zealand",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1061,
+    "league_name": "Second League A - Spring Season Gold",
+    "country": "Russia",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1064,
+    "league_name": "Second League A - Spring Season Silver",
+    "country": "Russia",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1065,
+    "league_name": "U19 League",
+    "country": "Ukraine",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1079,
+    "league_name": "Yemeni League",
+    "country": "Yemen",
+    "seasons_with_standings": [
+      2023
+    ]
+  },
+  {
+    "league_id": 1080,
+    "league_name": "Premier Division",
+    "country": "Grenada",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1084,
+    "league_name": "Championnat National",
+    "country": "Togo",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1099,
+    "league_name": "Gamma Ethniki - Relegation Play-offs",
+    "country": "Greece",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1111,
+    "league_name": "NB III - Promotion Play-offs",
+    "country": "Hungary",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1121,
+    "league_name": "Second League A - Promotion Play-offs",
+    "country": "Russia",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1017,
+    "league_name": "U23 League",
+    "country": "Mexico",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1020,
+    "league_name": "Calcutta Premier Division",
+    "country": "India",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1022,
+    "league_name": "Premier League - Summer Series",
+    "country": "England",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1023,
+    "league_name": "NB III - Southeast",
+    "country": "Hungary",
+    "seasons_with_standings": [
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1025,
+    "league_name": "Second League A - Division A Gold",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1026,
+    "league_name": "Second League A - Division A Silver",
+    "country": "Russia",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1027,
+    "league_name": "3. Lig - Group 4",
+    "country": "Turkey",
+    "seasons_with_standings": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 1029,
+    "league_name": "National 3 - Group G",
+    "country": "France",
+    "seasons_with_standings": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "league_id": 1030,
+    "league_name": "Goiano - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 969,
+    "league_name": "Primeira Divisão",
+    "country": "Macao",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1062,
+    "league_name": "Paulista - A4",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1067,
+    "league_name": "Torneo Promocional Amateur",
+    "country": "Argentina",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1069,
+    "league_name": "Goiano U20",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1071,
+    "league_name": "Paranaense U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1073,
+    "league_name": "Baiano U20",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1075,
+    "league_name": "Pro League A",
+    "country": "Uzbekistan",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1076,
+    "league_name": "Catarinense U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1086,
+    "league_name": "Paulista - U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1087,
+    "league_name": "Ykkösliiga",
+    "country": "Finland",
+    "seasons_with_standings": [
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1088,
+    "league_name": "Pernambucano - U20",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1090,
+    "league_name": "NNSW League 1",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1091,
+    "league_name": "Tasmania Northern Championship",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1092,
+    "league_name": "Capital Territory NPL 2",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1093,
+    "league_name": "Tasmania Southern Championship",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1094,
+    "league_name": "Western Australia State League 1",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1095,
+    "league_name": "USL League One Cup",
+    "country": "USA",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1096,
+    "league_name": "Matogrossense 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1098,
+    "league_name": "Paulista Série B",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1100,
+    "league_name": "Brasiliense U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1103,
+    "league_name": "Premiership Women",
+    "country": "Northern-Ireland",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1104,
+    "league_name": "Liga 3",
+    "country": "Georgia",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1106,
+    "league_name": "Carioca C",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1107,
+    "league_name": "Mineiro U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1108,
+    "league_name": "Sergipano U20",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1110,
+    "league_name": "Alagoano U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1112,
+    "league_name": "Cearense U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1114,
+    "league_name": "Carioca U20",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1115,
+    "league_name": "Paraense A3",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1116,
+    "league_name": "WPSL",
+    "country": "USA",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1117,
+    "league_name": "USL W League",
+    "country": "USA",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1118,
+    "league_name": "NPSL",
+    "country": "USA",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1119,
+    "league_name": "NWSL - Liga MXF Summer Cup",
+    "country": "USA",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1120,
+    "league_name": "Paraibano U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1124,
+    "league_name": "Cearense - 3",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1125,
+    "league_name": "Pernambucano - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1126,
+    "league_name": "Esiliiga B",
+    "country": "Estonia",
+    "seasons_with_standings": [
+      2024,
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1128,
+    "league_name": "Brasileiro U17",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1130,
+    "league_name": "USL Super League",
+    "country": "USA",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1131,
+    "league_name": "Super Cup",
+    "country": "Mongolia",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1133,
+    "league_name": "Goiano - 3",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1134,
+    "league_name": "Amazonense - 2",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1135,
+    "league_name": "Sergipano - 2",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1137,
+    "league_name": "Supercup der Frauen",
+    "country": "Germany",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1138,
+    "league_name": "Paranaense - 3",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1139,
+    "league_name": "Potiguar - U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1141,
+    "league_name": "Brasiliense B",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1142,
+    "league_name": "Mineiro - 3",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1143,
+    "league_name": "Estadual Junior U20",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1145,
+    "league_name": "Paraense B1",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1148,
+    "league_name": "Maranhense - 2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1149,
+    "league_name": "Potiguar - 2",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1150,
+    "league_name": "Gaúcho - 3",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1151,
+    "league_name": "Pernambucano - 3",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1152,
+    "league_name": "U19 Divisie 1",
+    "country": "Netherlands",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1154,
+    "league_name": "Catarinense - 3",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1155,
+    "league_name": "Carioca B2",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1157,
+    "league_name": "Paraense U20",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1182,
+    "league_name": "Northern Super League",
+    "country": "Canada",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1185,
+    "league_name": "3. liga - Play-offs",
+    "country": "Slovakia",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1195,
+    "league_name": "Liga E Pare",
+    "country": "Kosovo",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1196,
+    "league_name": "Division One League",
+    "country": "Ghana",
+    "seasons_with_standings": [
+      2025
+    ]
+  },
+  {
+    "league_id": 1200,
+    "league_name": "Liga MX U21",
+    "country": "Mexico",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1203,
+    "league_name": "Piauiense - 2",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1204,
+    "league_name": "Rondoniense - 2",
+    "country": "Brazil",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1218,
+    "league_name": "Pro League U23",
+    "country": "United-Arab-Emirates",
+    "seasons_with_standings": [
+      2025,
+      2026
+    ]
+  },
+  {
+    "league_id": 1147,
+    "league_name": "Capixaba B",
+    "country": "Brazil",
+    "seasons_with_standings": [
+      2026,
+      2027
+    ]
+  },
+  {
+    "league_id": 1211,
+    "league_name": "Tipsport Liga",
+    "country": "Czech-Republic",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1235,
+    "league_name": "J2/J3 League",
+    "country": "Japan",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1219,
+    "league_name": "Copa Presidente",
+    "country": "El-Salvador",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1226,
+    "league_name": "Victoria Premier League 2",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1227,
+    "league_name": "Premier League Women",
+    "country": "Saudi-Arabia",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1229,
+    "league_name": "Liga Women",
+    "country": "Peru",
+    "seasons_with_standings": []
+  },
+  {
+    "league_id": 1230,
+    "league_name": "Npl Nsw U20",
+    "country": "Australia",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1234,
+    "league_name": "K4 League",
+    "country": "South-Korea",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1238,
+    "league_name": "Regionalliga - South",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2026
+    ]
+  },
+  {
+    "league_id": 1239,
+    "league_name": "Regionalliga - North",
+    "country": "Austria",
+    "seasons_with_standings": [
+      2026
+    ]
+  }
+]
