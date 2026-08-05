@@ -21,10 +21,10 @@ jobs:
         run: |
           if [ -f package-lock.json ]; then npm ci; else npm install; fi
       - name: Run results-sync
-        run: node backfill-results.js
+        run: node soccer-backfill-results.js
       - name: Capture results analysis
-        run: node capture-results-analysis.js
+        run: node soccer-capture-results-analysis.js
       - name: Run sync_fixtures_odds
-        run: node sync_fixtures_odds.js
+        run: node soccer-sync-fixtures-odds.js
       - name: Run updatecurrentstandings
-        run: node updatecurrentstandings.js
+        run: node soccer-update-current-standings.js
