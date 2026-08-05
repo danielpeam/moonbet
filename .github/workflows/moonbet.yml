@@ -1,37 +1,30 @@
 name: MoonBet Cron
-
 on:
   schedule:
-    - cron: "45 7-22 * * *"
+    - cron: "*/30 7-22 * * *"
   workflow_dispatch:        # lets you run it manually
-
 jobs:
   run-scripts:
     runs-on: ubuntu-latest
-
     env:
       SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
       SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
       API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-
       - name: Install dependencies
         run: |
           if [ -f package-lock.json ]; then npm ci; else npm install; fi
-
+      - name: Run results-sync
+        run: node backfill-results.js
+      - name: Capture results analysis
+        run: node capture-results-analysis.js
       - name: Run sync_fixtures_odds
         run: node sync_fixtures_odds.js
-
-      - name: Run results-sync
-        run: node results-sync.js
-
       - name: Run updatecurrentstandings
         run: node updatecurrentstandings.js
